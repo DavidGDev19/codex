@@ -1,0 +1,4 @@
+venv/
+*.pyc
+.env
+backend/static/style.css
